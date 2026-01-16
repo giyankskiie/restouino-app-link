@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.restouino",
+    "sha256_cert_fingerprints": ["SHA256: F7:B2:A3:98:C9:8B:FC:C1:84:10:40:0E:95:4A:17:72:2D:CF:61:D3:BE:6C:92:49:05:3C:FE:BE:9D:D7:14:0C"]
+  }
+}]
